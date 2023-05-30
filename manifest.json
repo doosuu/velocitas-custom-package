@@ -1,0 +1,9 @@
+{
+    "components": [
+        {
+            "id": "custom-component",
+            "alias": "local",
+            "type": "runtime"
+        }
+    ]
+}
